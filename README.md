@@ -3,7 +3,7 @@
 2|Kriptonavti 
 
 Kratek opis:
-Naš prgram je spisan tako, da postavimo mrežo. Le-ta deluje na podlagi treh vrst uporabnikov. 
+Naš program je spisan tako, da postavimo mrežo. Le-ta deluje na podlagi treh vrst uporabnikov. 
 (NET - simulira večje število uporabnikov (potrjujejo transakcije), SHOP - določa ceno izdelkov in sprejema plačila, USER - kupuje izdelke in plačuje)
 
 Postopek uporabe:
